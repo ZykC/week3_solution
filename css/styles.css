@@ -7,7 +7,7 @@ body {
 
 body { padding-top: 40px; }
     @media screen and (max-width: 768px) {
-    body { padding-top: 50px; }
+    body { padding-top: 165px; }
 }
 
 
@@ -17,7 +17,7 @@ body { padding-top: 40px; }
   border-radius: 0;
   border: 0;
   overflow-y: hidden;
-  max-height: 60px;
+ 
 }
 
 .navbar-brand {
@@ -101,4 +101,5 @@ body { padding-top: 40px; }
 
 
 /* END HOME PAGE */
+
 
