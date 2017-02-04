@@ -17,10 +17,12 @@ body { padding-top: 40px; }
   border-radius: 0;
   border: 0;
   overflow-y: hidden;
+  max-height: 60px;
 }
 
 .navbar-brand {
-  padding-top: 25px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .navbar-brand h1 { 
@@ -36,7 +38,7 @@ body { padding-top: 40px; }
 
 .navbar-brand p {
   color: #000;
-  font-size: .7em;
+  font-size: 1em;
   margin-top: 15px;
 }
 .navbar-brand p span { 
@@ -85,7 +87,9 @@ body { padding-top: 40px; }
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
   background-color: yellow;
-  padding: 0;
+  font-size: 12px;
+  text-align: justify;
+  padding: 20px;
 
 }
 
@@ -93,11 +97,7 @@ body { padding-top: 40px; }
   position: relative;
 }
 
-.container .jumbotron p{
-    font-size: 12px;
-    text-align: justify;
-    padding: 20px;
-}
+
 
 
 /* END HOME PAGE */
